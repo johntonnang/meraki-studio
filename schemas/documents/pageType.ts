@@ -69,6 +69,7 @@ export const pageType = defineType({
         {type: 'offers', icon: HiOutlineClipboardList},
         {type: 'twoColumnTextImage', icon: TbColumns},
         {type: 'twoColumnImageText', icon: TbColumns},
+        {type: 'twoColumnListImage', icon: TbColumns},
         {type: 'articlesHighlight', icon: HiOutlineLightBulb},
         {type: 'allArticles', icon: HiOutlineLightBulb},
       ],
