@@ -70,6 +70,7 @@ export const pageType = defineType({
         {type: 'twoColumnTextImage', icon: TbColumns},
         {type: 'twoColumnImageText', icon: TbColumns},
         {type: 'twoColumnListImage', icon: TbColumns},
+        {type: 'twoColumnImageList', icon: TbColumns},
         {type: 'articlesHighlight', icon: HiOutlineLightBulb},
         {type: 'allArticles', icon: HiOutlineLightBulb},
       ],

@@ -15,6 +15,7 @@ import {offersType} from './modules/offersType'
 import {twoColumnTextImageType} from './modules/twoColumnTextImageType'
 import {twoColumnImageTextType} from './modules/twoColumnImageTextType'
 import {twoColumnListImageType} from './modules/twoColumnListImageType'
+import {twoColumnImageListType} from './modules/twoColumnImageListType'
 import {articlesHighlightType} from './modules/articlesHighlightType'
 import {allArticlesType} from './modules/allArticlesType'
 
@@ -37,6 +38,7 @@ export const schemaTypes = [
   twoColumnTextImageType,
   twoColumnImageTextType,
   twoColumnListImageType,
+  twoColumnImageListType,
   articlesHighlightType,
   allArticlesType,
   linkType,
